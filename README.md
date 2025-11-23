@@ -1,2 +1,2 @@
-# EEpistemic Uncertainty Suppression for Robust Spatiotemporal Forecasting with the Application of Aircraft
+# Epistemic Uncertainty Suppression for Robust Spatiotemporal Forecasting with the Application of Aircraft
 This repository contains the source code for the spatiotemporal surrogate model (CAST) developed for robust forecasting in aerospace systems. The code will be made publicly available to support further research and development in the field of digital airworthiness validation and spatiotemporal forecasting. The code will be made open-source upon acceptance. Contributions to the project are welcome.
